@@ -19,7 +19,7 @@
 | Git | 2.29.1.windows.1  |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
-| Apache Tomee Pume | 9.0.0-M3  |
+| Apache Tomee Plume | 9.0.0-M3  |
 
 
 </br>
