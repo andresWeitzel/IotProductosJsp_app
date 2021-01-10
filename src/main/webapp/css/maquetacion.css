@@ -1,0 +1,33 @@
+  header {
+      font-size: 20px;
+      position: relative;
+  }
+  
+  section.slider {
+      background: url("../images/fondo.jpg");
+      margin: 0;
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+      background-repeat: repeat;
+      background-attachment: fixed;
+      justify-content: center;
+  }
+  
+  section {
+      padding: 10px;
+      margin-top: 40px;
+      position: relative;
+      text-align: center;
+  }
+  
+  form {
+      font-size: 25px;
+  }
+  
+  footer section.Jumbotron {
+      position: relative;
+      width: 100%;
+      bottom: 0px;
+  }
