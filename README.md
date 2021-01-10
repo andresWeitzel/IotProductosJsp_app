@@ -9,7 +9,7 @@
 </br>
 </hr>
 
-| **Tecnologías** | **Versión** || **Finalidad** |               
+| **Tecnologías** | **Versión** | **Finalidad** |               
 | ------------- | ------------- | ------------- |
 | Java |   12.0.2 | JDK |
 | Bootstrap | 4.5.x  | Framework Web |
