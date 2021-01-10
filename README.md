@@ -2,10 +2,12 @@
 
 **Se desarrolla una app aplicando JSP en JAVA con Maven implementando JDBC en MYSQL**
 
+## Inicio de Aplicación
+
 ![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png)
 
-
 </br>
+</hr>
 
 | **Tecnologías** | **Versión** |               
 | ------------- | ------------- |
