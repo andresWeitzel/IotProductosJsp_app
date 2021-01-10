@@ -14,8 +14,8 @@
 | Java |   12.0.2 |
 | Bootstrap | 4.5.x  |
 | Apache NetBeans IDE |  12.0 |
-| Visual Studio Code IDE | 1.51.1  | -> Agilizar el desarrollo de maquetación
-| Cygwin | 3.1.6-1  | -> Terminal en Windows integrada al IDE Netbeans
+| Visual Studio Code IDE | 1.51.1  |*Agilizar el desarrollo de maquetación*
+| Cygwin | 3.1.6-1  |*Terminal en Windows integrada al IDE Netbeans*
 | Git | 2.29.1.windows.1  |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
