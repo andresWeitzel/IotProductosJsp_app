@@ -2,7 +2,7 @@
 
 **Se desarrolla una app aplicando Bootstrap y JSP en JAVA EE con Maven implementando JDBC en MYSQL**
 
-## Inicio de Aplicación
+## Vista Inicio de Aplicación
 
 ![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Proyectos/IotProductosJsp_app/Captura%20de%20pantalla%20(317).png)
 
