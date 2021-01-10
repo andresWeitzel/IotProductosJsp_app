@@ -1,6 +1,6 @@
 # IotProductosJsp_app
 
-**Se desarrolla una app aplicando Bootstrap y JSP en JAVA con Maven implementando JDBC en MYSQL**
+**Se desarrolla una app aplicando Bootstrap y JSP en JAVA EE con Maven implementando JDBC en MYSQL**
 
 ## Inicio de Aplicación
 
