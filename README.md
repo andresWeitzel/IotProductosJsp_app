@@ -2,7 +2,7 @@
 
 **Se desarrolla una app aplicando JSP en JAVA con Maven implementando JDBC en MYSQL**
 
-![Index app](https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber)
+![Index app](https://github.com/andresWeitzel/Graphics/blob/main/Gifs/youtubeLoading.gif)
 
 
 </br>
