@@ -2,7 +2,7 @@
 
 **Se desarrolla una app aplicando JSP en JAVA con Maven implementando JDBC en MYSQL**
 
-<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank">
+<a href="https://www.youtube.com/channel/UCuSVXmBcMURyTvbmbcgZalQ?view_as=subscriber" target="_blank"></a>
 
 
 </br>
