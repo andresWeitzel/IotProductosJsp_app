@@ -1,6 +1,6 @@
 # IotProductosJsp_app
 
-**Se desarrolla una app aplicando JSP en JAVA con Maven implementando JDBC en MYSQL**
+**Se desarrolla una app aplicando Bootstrap y JSP en JAVA con Maven implementando JDBC en MYSQL**
 
 ## Inicio de Aplicación
 
@@ -12,11 +12,14 @@
 | **Tecnologías** | **Versión** |               
 | ------------- | ------------- |
 | Java |   12.0.2 |
+| Bootstrap | 4.5.x  |
 | Apache NetBeans IDE |  12.0 |
+| Visual Studio Code IDE | 1.51.1  | -> Agilizar el desarrollo de maquetación
 | Cygwin | 3.1.6-1  | -> Terminal en Windows integrada al IDE Netbeans
 | Git | 2.29.1.windows.1  |
 | XAMPP | 3.2.2  |
 | Mysql Workbench | 8.0.20  |
+| Apache Tomee Pume | 9.0.0-M3  |
 
 
 </br>
@@ -43,13 +46,16 @@
 </br>
 
 ## Descarga y documentacion de las Tecnologías empleadas:
+#### Bootstrap:   https://getbootstrap.com/
 #### Java-JDK 12:                     https://www.oracle.com/java/technologies/javase/jdk12-archive-downloads.html
 #### Maven Repositories:              https://mvnrepository.com/
 #### Apache Netbeans IDE:             https://netbeans.apache.org/download/index.html
+#### Visual Studio Code IDE:          https://code.visualstudio.com/download
 #### Cygwin:                           https://cygwin.com/install.html
 #### Git:                              https://git-scm.com/docs
 #### XAMPP:                            https://www.apachefriends.org/download.html
 #### Mysql Workbench:                 https://www.mysql.com/products/workbench/
+#### Apache Tomee Plume:              https://tomee.apache.org/download-ng.html
 
 
 </br>
